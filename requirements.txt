@@ -1,5 +1,6 @@
-streamlit>=1.35.0
-sentence-transformers>=2.7.0
-chromadb>=0.5.0
-pandas>=2.0.0
-numpy>=1.24.0
+chromadb==0.4.24
+protobuf==3.20.3
+opentelemetry-api==1.20.0
+opentelemetry-sdk==1.20.0
+opentelemetry-exporter-otlp-proto-grpc==1.20.0
+grpcio==1.59.3
